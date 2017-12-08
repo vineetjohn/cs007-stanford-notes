@@ -6,4 +6,5 @@
 * [Spend Less Than You Make](https://github.com/v1n337/cs007-stanford-notes/blob/master/notes/04-spend-less-than-you-make.md)
 * [Know Your Worth](https://github.com/v1n337/cs007-stanford-notes/blob/master/notes/05-know-your-worth.md)
 * [All About Debt](https://github.com/v1n337/cs007-stanford-notes/blob/master/notes/06-all-about-debt.md)
+* [Good Investing Is Boring](https://github.com/v1n337/cs007-stanford-notes/blob/master/notes/07-good-investing-is-boring.md)
 
