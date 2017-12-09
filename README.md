@@ -8,4 +8,5 @@
 * [All About Debt](https://github.com/v1n337/cs007-stanford-notes/blob/master/notes/06-all-about-debt.md)
 * [Good Investing Is Boring](https://github.com/v1n337/cs007-stanford-notes/blob/master/notes/07-good-investing-is-boring.md)
 * [Financial Planning & Goals](https://github.com/v1n337/cs007-stanford-notes/blob/master/notes/08-financial-planning-and-goals.md)
+* [Real Estate](https://github.com/v1n337/cs007-stanford-notes/blob/master/notes/08-real-estate.md)
 
